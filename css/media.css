@@ -1,0 +1,169 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+.box1{
+	background-color: brown;
+}
+.box2{
+	background-color: black;
+}
+.box3{
+	background-color: gold;
+}
+.box4{
+	background-color: chocolate;
+}
+.box5{
+	background-color: cyan;
+}
+.box6{
+	background-color: lime;
+}
+.box7{
+	background-color: magenta;
+}
+.box8{
+	background-color: maroon;
+}
+.box9{
+	background-color: #E6D72A;
+}
+.box10{
+	background-color: blue;
+}
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.box1{
+	background-color: lime;
+}
+.box2{
+	background-color: magenta;
+}
+.box3{
+	background-color: maroon;
+}
+.box4{
+	background-color: #E6D72A;
+}
+.box5{
+	background-color: blue;
+}
+.box6{
+	background-color: lime;
+}
+.box7{
+	background-color: magenta;
+}
+.box8{
+	background-color: maroon;
+}
+.box9{
+	background-color: #E6D72A;
+}
+.box10{
+	background-color: blue;
+}
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.box1{
+	background-color: navy;
+}
+.box2{
+	background-color: orange;
+}
+.box3{
+	background-color: gold;
+}
+.box4{
+	background-color: blue;
+}
+.box5{
+	background-color: #4995AE;
+}
+.box6{
+	background-color: lime;
+}
+.box7{
+	background-color: magenta;
+}
+.box8{
+	background-color: maroon;
+}
+.box9{
+	background-color: #E6D72A;
+}
+.box10{
+	background-color: blue;
+}
+ } 
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.box1{
+	background-color: green;
+}
+.box2{
+	background-color: purple;
+}
+.box3{
+	background-color: #BA5536;
+}
+.box4{
+	background-color: ruby;
+}
+.box5{
+	background-color: pink;
+}
+.box6{
+	background-color: lime;
+}
+.box7{
+	background-color: magenta;
+}
+.box8{
+	background-color: maroon;
+}
+.box9{
+	background-color: #E6D72A;
+}
+.box10{
+	background-color: blue;
+}
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+.box1{
+	background-color: teal;
+}
+.box2{
+	background-color: navy;
+}
+.box3{
+	background-color: olive;
+}
+.box4{
+	background-color: coral;
+}
+.box5{
+	background-color: tan;
+}
+.box6{
+	background-color: lime;
+}
+.box7{
+	background-color: magenta;
+}
+.box8{
+	background-color: maroon;
+}
+.box9{
+	background-color: #E6D72A;
+}
+.box10{
+	background-color: blue;
+}
+ }
